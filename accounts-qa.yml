@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the QA Accounts Service"
+  contactDetails:
+    name: "Saiteja QA"
+    email: "saiteja@gmail"
+  onCallSupport:
+    - 1234567890
+    - 9876543210

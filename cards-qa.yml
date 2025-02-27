@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to the QA Cards Service"
+  contactDetails:
+    name: "Saiteja"
+    email: "saiteja@gmail"
+  onCallSupport:
+    - 1234567890
+    - 9876543210

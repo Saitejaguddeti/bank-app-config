@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to the Loans QA Service"
+  contactDetails:
+    name: "Saiteja"
+    email: "saiteja@gmail"
+  onCallSupport:
+    - 1234567890
+    - 9876543210
