@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the Prod Cards Service"
+  message: "Welcome to the Production Cards Service"
   contactDetails:
     name: "Saiteja"
     email: "saiteja@gmail"
