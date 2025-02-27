@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to the Loans Production Service"
+  message: "Welcome to the Loans Prod Service"
   contactDetails:
     name: "Saiteja"
     email: "saiteja@gmail"
