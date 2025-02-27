@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Production Accounts Service"
+  message: "Welcome to the Prod Accounts Service"
   contactDetails:
     name: "Saiteja PROD"
     email: "saiteja@gmail"
