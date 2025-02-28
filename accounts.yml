@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts Service"
+  message: "Welcome to the Accounts DEV Service"
   contactDetails:
     name: "Saiteja"
     email: "saiteja@gmail"
